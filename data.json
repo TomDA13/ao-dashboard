@@ -1,0 +1,3590 @@
+[
+    {
+        "idweb": "21-10249",
+        "id": "21_10249",
+        "objet": "fourniture et livraison de denrées alimentaire pour collectivité",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-01-24",
+        "nomacheteur": "COLLEGE LE RUISSATEL",
+        "titulaire": [
+            "GV RESTAURATION"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-129898"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-10249",
+        "LOTS": [
+            "Fourniture et livraison de denrées alimentaires"
+          ],
+          "Duree": 1,
+          "date_debut": "2020-12-02",
+          "date_fin": "2021-12-01"
+    },
+    {
+        "idweb": "21-1996",
+        "id": "21_1996",
+        "objet": "Fourniture et livraison de denrées alimentaires : lot 1 'Produits surgelés', lot 2 'Produits laitiers divers et oeufs coquilles', lot 3 'Fruits, légumes, pdt à l'état fra",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-01-08",
+        "nomacheteur": "CCAS d'Aix en Provence",
+        "titulaire": [
+            "FELIX POTIN PROVENCE",
+            "SOOPRIM"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-109187"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-1996",
+        "LOTS": [
+        "Produits surgelés",
+        "Produits laitiers divers et œufs coquilles",
+        "Fruits et légumes de 1ère gamme et pommes de terre à l'état frais - légumes 5ème gamme"
+        ],
+        "Duree": 4,
+        "date_debut": "2020-12-01",
+        "date_fin": "2024-11-30"
+    },
+    {
+        "idweb": "21-685",
+        "id": "21_685",
+        "objet": "Fournitures de denrées alimentaires issues de l'agriculture conventionnelle, biologique et en circuits courts, direct producteurs-AOO1_ALIM2020-AVIS D'ATTRIBUTION",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2021-01-07",
+        "nomacheteur": "SI VAROIS D AIDE AUX ACHATS DIVERS",
+        "titulaire": [
+            "PASSION FROID",
+            "MANGER BIO EN PROVENCE",
+            "PASSION FROID",
+            "SAS NATURDIS",
+            "MIDI VIANDES",
+            "PASSION FROID",
+            "PASSION FROID",
+            "TERREAZUR 83",
+            "TERREAZUR 83",
+            "TERREAZUR 83",
+            "BIOFINESSE",
+            "PASSION FROID",
+            "LABORATOIRE RIVADIS",
+            "MANGER BIO EN PROVENCE",
+            "PASSION FROID",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "MIDI VIANDES",
+            "SDA",
+            "Entreprise RAMPAL",
+            "MIDI VIANDES",
+            "Entreprise RAMPAL",
+            "Entreprise MAGRANER",
+            "PRO A PRO DISTRIBUTION",
+            "PASSION FROID",
+            "SYSCO FRANCE SAS",
+            "PATES LANZA",
+            "L'EURASIENNE",
+            "TERREAZUR 83",
+            "TERREAZUR 83",
+            "TERREAZUR 83",
+            "TERREAZUR 83",
+            "PRO A PRO DISTRIBUTION",
+            "LABORATOIRE RIVADIS",
+            "PASSION FROID",
+            "SYSCO FRANCE SAS",
+            "SYSCO FRANCE SAS",
+            "PASSION FROID",
+            "SYSCO FRANCE SAS",
+            "SYSCO FRANCE SAS",
+            "SYSCO FRANCE SAS",
+            "SYSCO FRANCE SAS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-102689"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-685",
+        "LOTS": [
+        "Charcuterie fraiche BIO",
+        "Viande fraiche de Bœuf et de Veau BIO",
+        "Viande fraiche de Porc BIO",
+        "Viande fraiche d'agneau et de mouton frais BIO",
+        "Viande fraiche de volailles BIO",
+        "Produits laitiers et ovoproduits frais BIO",
+        "Pâtes alimentaires fraiches BIO",
+        "Fruits et légumes bruts, crus, cuits BIO zone 1",
+        "Fruits et légumes bruts, crus, cuits BIO zone 2",
+        "Fruits et légumes bruts, crus, cuits BIO zone 3"
+        ],
+        "Duree": 2,
+        "date_debut": "2020-11-18",
+        "date_fin": "2022-11-17"
+    },
+    {
+        "idweb": "20-158758",
+        "id": "20_158758",
+        "objet": "Fourniture et livraison de denrées alimentaires",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2020-12-31",
+        "nomacheteur": "Ville de Vedene",
+        "titulaire": [
+            "POMONA PASSION FROID",
+            "POMONA PASSION FROID",
+            "SYSCO",
+            "SYSCO",
+            "POMONA PASSION FROID",
+            "POMONA TERRE AZUR",
+            "POMONA PASSION FROID",
+            "SDA",
+            "POMONA PASSION FROID",
+            "TRANSGOURMET",
+            "POMONA EPI SAVEURS",
+            "POMONA EPI SAVEURS",
+            "POMONA EPI SAVEURS",
+            "POMONA EPI SAVEURS",
+            "POMONA EPI SAVEURS",
+            "LA NATURE A TABLE",
+            "BIOFINESSE",
+            "FELIX POTIN",
+            "POMONA EPI SAVEURS",
+            "ALAZARD ET ROUX",
+            "MAISON FARRET"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-88348"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-158758",
+        "LOTS": [
+        "légumes et aromates surgelés",
+        "viandes surgelées",
+        "entrées chaudes composites, ovo produits et plats cuisinés surgelés",
+        "poissons surgelés",
+        "desserts surgelés",
+        "Fruits et légumes, 4° et 5° gammes",
+        "viandes fraiches",
+        "volailles fraiches",
+        "charcuterie",
+        "produits laitiers et ovo-produits",
+        "Biscuits et petits déjeuners",
+        "Fruits secs, compotes, fruits au sirop et desserts",
+        "Légumes, poissons et viandes en conserves",
+        "fonds, arômes, jus de viandes, épices, condiments, assaisonnements et huiles",
+        "Féculents",
+        "boissons",
+        "Légumes, viandes, plats cuisinés et pâtisseries surgelés BIO",
+        "produits laitiers BIO",
+        "épicerie BIO",
+        "viandes fraiches BIO",
+        "volailles fraiches BIO"
+        ],
+        "Duree": 4,
+        "date_debut": "2020-12-14",
+        "date_fin": "2024-12-13"
+    },
+    {
+        "idweb": "20-156060",
+        "id": "20_156060",
+        "objet": "achat et livraison de produits laitiers 'bof'",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2020-12-21",
+        "nomacheteur": "Ville de Morières",
+        "titulaire": [
+            "SA PASSION FROID"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-4181",
+            "20-53308"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-156060",
+        "LOTS": [
+            "Produits laitiers BOF"
+        ],
+        "Duree": 1,
+        "date_debut": "2020-12-21",
+        "date_fin": "2021-12-20"
+    },
+    {
+        "idweb": "20-155934",
+        "id": "20_155934",
+        "objet": "achat et livraison de fruits et légumes frais",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2020-12-21",
+        "nomacheteur": "Ville de Morières",
+        "titulaire": [
+            "SAS PROVENCE PRIMEURS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-4174",
+            "20-53312"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-155934",
+        "LOTS": [
+        "Fruits et légumes frais"
+        ],
+        "Duree": 1,
+        "date_debut": "2020-12-21",
+        "date_fin": "2021-12-20"
+    },
+    {
+        "idweb": "20-155878",
+        "id": "20_155878",
+        "objet": "achat et livraison de produits d'épicerie classique et biologique",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2020-12-21",
+        "nomacheteur": "Ville de Morières",
+        "titulaire": [
+            "POMONA EPISAVEURS SUD EST"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-4677",
+            "20-53303"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-155878",
+        "LOTS": [
+        "Epicerie classique",
+        "Epicerie biologique"
+        ],
+        "Duree": 1,
+        "date_debut": "2020-12-21",
+        "date_fin": "2021-12-20"
+    },
+    {
+        "idweb": "20-156072",
+        "id": "20_156072",
+        "objet": "achat et livraison de volaille fraiche",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2020-12-21",
+        "nomacheteur": "Ville de Morières",
+        "titulaire": [
+            "SDA Société de Distribution avicole"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-4152",
+            "20-53291"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-156072",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-155899",
+        "id": "20_155899",
+        "objet": "achat et livraison de produits surgelés",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2020-12-21",
+        "nomacheteur": "Ville de Morières",
+        "titulaire": [
+            "SA PASSION FROID NÎMES",
+            "SA PASSION FROID NIMES",
+            "SA PASSION FROID NIMES",
+            "SA PASSION FROID NIMES"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-4661",
+            "20-53306"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-155899",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-153587",
+        "id": "20_153587",
+        "objet": "Achat de produits carnés surgelés ou congelés",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-12-18",
+        "nomacheteur": "GPT DE COOPERATION SANITAIRE PAYS AIX",
+        "titulaire": [
+            "Sysco France Sas"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-118744"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-153587",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-152132",
+        "id": "20_152132",
+        "objet": "Achat de viandes fraiches et cuites conditionnées sous vide ou sous atmosphère modifiée",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-12-16",
+        "nomacheteur": "GPT DE COOPERATION SANITAIRE PAYS AIX",
+        "titulaire": [
+            "Passionfroid_paca",
+            "Passionfroid_paca"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-118714"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-152132",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-151681",
+        "id": "20_151681",
+        "objet": "Fourniture de denrées alimentaires de viandes fraîches pour la restauration municipale de la Commune de La Seyne-sur-Mer et accessoirement aux autres services de la ville - Affaire 20S0013",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2020-12-13",
+        "nomacheteur": "Ville de la Seyne sur Mer",
+        "titulaire": [
+            "BIGARD"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-118570"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-151681",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-150789",
+        "id": "20_150789",
+        "objet": "Fourniture des denrées alimentaires nécessaires au fonctionnement de la restauration collective de la Commune d'Auriol",
+        "code_departement": [
+            "13",
+            "83"
+        ],
+        "dateparution": "2020-12-12",
+        "nomacheteur": "Commune d'Auriol",
+        "titulaire": [
+            "Terreazur",
+            "Episaveurs_sud_est",
+            "Pro A Pro Distribution Sud",
+            "Primarest",
+            "Passionfroid_paca",
+            "Passionfroid_paca",
+            "Passionfroid_paca"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-112584"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-150789",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-149175",
+        "id": "20_149175",
+        "objet": "Fourniture De Fruits Et Legumes Frais Et De 4ème Et 5ème Gamme,Et De Fruits Et Legumes Biologiques",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-12-09",
+        "nomacheteur": "Centre Hospitalier Edouard Toulouse",
+        "titulaire": [
+            "Terre Azur Groupe Pomona",
+            "Canavese Aubagne Sas"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-167469"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-149175",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-146971",
+        "id": "20_146971",
+        "objet": "Fourniture et livraison de denrées alimentaires de restauration collectivePour la Commune de l'Isle sur la Sorgue",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2020-12-03",
+        "nomacheteur": "COMMUNE DE L ISLE SUR LA SORGUE",
+        "titulaire": [
+            "Passionfroid_languedoc_roussillon",
+            "Passionfroid_languedoc_roussillon",
+            "Société de Distribution Avicole Sas",
+            "Pro A Pro Distribution Sud",
+            "Pro A Pro Distribution Sud",
+            "Pro A Pro Distribution Sud",
+            "Passionfroid_languedoc_roussillon",
+            "Salade 2 Fruits",
+            "Episaveurs_sud_est"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-95107"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-146971",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-146835",
+        "id": "20_146835",
+        "objet": "Achats de denrées alimentaires, petits matériels de cuisine, brosserie - Groupement de commandes CDE/CCAS",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-12-03",
+        "nomacheteur": "Caisse des Ecoles Aix en Provence",
+        "titulaire": [
+            "JOASSAN FRERES",
+            "POMONA PASSION FROID",
+            "ALPES FRAIS PRODUCTION S.A.S",
+            "POMONA PASSION FROID",
+            "MONGIN JAUFFRET - MJ PRO"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-87734"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-146835",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-141098",
+        "id": "20_141098",
+        "objet": "Accord-cadre pour la fourniture de produits dérivés d'inspiration romaine ou provençale pour les boutiques des musées départementaux - 13200 Arles (13 lots distincts)",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-11-20",
+        "nomacheteur": "CONSEIL DEPARTEMENTAL 13",
+        "titulaire": [
+            "Sarl herbatica",
+            "Atelier Bonillo",
+            "Arles anticae accessoires",
+            "L'atelier des verriers",
+            "Mathias Fernandes",
+            "Marie Picard"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-87323"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-141098",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-138666",
+        "id": "20_138666",
+        "objet": "Fourniture de denrées alimentaires pour le Centre Communal d'Action Sociale de Toulon (12 lots)",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2020-11-14",
+        "nomacheteur": "C.C.A.S. de Toulon",
+        "titulaire": [
+            "Sysco France Sas",
+            "Générale Frigorifique Distribution Lerda",
+            "Sysco France Sas",
+            "Felix Potin",
+            "Terreazur_83",
+            "Felix Potin",
+            "Passionfroid_paca",
+            "Felix Potin",
+            "les-repas-sante",
+            "les-repas-sante",
+            "les-repas-sante",
+            "Lfb"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-30428",
+            "20-46709",
+            "20-55716",
+            "20-69031"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-138666",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-133820",
+        "id": "20_133820",
+        "objet": "Fourniture de Pains frais, Viennoiseries, Sandwicherie et Pâtisseries fraîches pour les services du Conseil Départemental du Var - 2 Lots",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2020-11-01",
+        "nomacheteur": "Conseil Général du Var",
+        "titulaire": [
+            "Promethee",
+            "Promethee"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-80894"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-133820",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-129416",
+        "id": "20_129416",
+        "objet": "Fournitures de denrées alimentaires nécessaires à la confection des repas",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-10-23",
+        "nomacheteur": "HOPITAUX DES PORTES DE CAMARGUE",
+        "titulaire": [
+            "synergie restauration"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-109741"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-129416",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-129238",
+        "id": "20_129238",
+        "objet": "Accord-cadre à bons de commande relatif à la fourniture de denrées alimentaires pour la DIMEF du Département des Bouches du Rhône/relance des lots 4,5,6,8 et 9",
+        "code_departement": [
+            "13",
+            "84"
+        ],
+        "dateparution": "2020-10-23",
+        "nomacheteur": "CONSEIL DEPARTEMENTAL 13",
+        "titulaire": [
+            "SARL SOOPRIM",
+            "SARL SOOPRIM",
+            "SARL SOOPRIM"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-85893"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-129238",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-113460",
+        "id": "20_113460",
+        "objet": "Fourniture de Pains frais, Viennoiseries, Sandwicherie et Pâtisseries fraîches pour les services du Conseil Départemental du Var - 2 Lots",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2020-09-18",
+        "nomacheteur": "Conseil Général du Var",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-42339"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-113460",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-112960",
+        "id": "20_112960",
+        "objet": "E20_303_TF",
+        "code_departement": [
+            "69",
+            "83"
+        ],
+        "dateparution": "2020-09-17",
+        "nomacheteur": "CHU Lyon",
+        "titulaire": [
+            "LA SURIENNE"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-13965",
+            "20-68917"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-112960",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-111560",
+        "id": "20_111560",
+        "objet": "Fourniture et livraison de denrées alimentaires de restauration collective.14 lots.",
+        "code_departement": [
+            "13",
+            "34",
+            "83",
+            "84"
+        ],
+        "dateparution": "2020-09-13",
+        "nomacheteur": "Ville de Fos-sur-Mer",
+        "titulaire": [
+            "SAS SYSCO FRANCE",
+            "PASSIONFROID GROUPE POMONA",
+            "SAS SYSCO FRANCE",
+            "SYSCO France SAS",
+            "SARL ALAZARD ET ROUX",
+            "SARL ALAZARD ET ROUX",
+            "SAS SOCIETE DE DISTRIBUTION AVICOLE",
+            "SARL GEPHI",
+            "SAS BIOFINESSE",
+            "ASSOCIATION AMELI PROVENCE"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-45224",
+            "20-59240"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-111560",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-104703",
+        "id": "20_104703",
+        "objet": "Accord-cadre à bons de commande relatif à la fourniture de denrées alimentaires pour la DIMEF du Département des Bouches du Rhône",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-08-26",
+        "nomacheteur": "CONSEIL DEPARTEMENTAL 13",
+        "titulaire": [
+            "LA NATURE A TABLE",
+            "POMONA PASSION FROID",
+            "LABORATOIRE RIVADIS SAS",
+            "FRANCE BOISSONS SUD EST"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-31713",
+            "20-34138",
+            "20-40468"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-104703",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-103870",
+        "id": "20_103870",
+        "objet": "Achats de fruits et légumes frais",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-08-22",
+        "nomacheteur": "AP-HM pour le compte du CHPA-CHIAP",
+        "titulaire": [
+            "Salade 2 Fruits"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-82896"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-103870",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-102827",
+        "id": "20_102827",
+        "objet": "Fourniture de produits frais",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-08-19",
+        "nomacheteur": "CENTRE HOSPITALIER REG DE MARSEILLE",
+        "titulaire": [
+            "POMONA TERRE AZUR",
+            "ESPRI RESTAURATION"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-540"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-102827",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-100121",
+        "id": "20_100121",
+        "objet": "Fourniture et livraison de denrées alimentaires de restauration collective pour le groupement de commandes constitué entre la Ville de Fos-sur-mer et le CCAS de la Ville de Fos-sur-Mer.",
+        "code_departement": [
+            "13",
+            "34",
+            "84",
+            "83"
+        ],
+        "dateparution": "2020-08-09",
+        "nomacheteur": "Ville de Fos-sur-Mer",
+        "titulaire": [
+            "SYSCO FRANCE",
+            "SARL 10.13 SERVICES"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-45730",
+            "20-59196"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-100121",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-92107",
+        "id": "20_92107",
+        "objet": "Fourniture de denrées alimentaires nécessaires à la confection de goûters secs (biscuits, pâtisseries, boissons, café, etc.)",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-07-22",
+        "nomacheteur": "ENERGIE SOLIDAIRE 13",
+        "titulaire": [
+            "POMONA EPISAVEURS",
+            "PRO A PRo"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-153172"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-92107",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-88255",
+        "id": "20_88255",
+        "objet": "Fourniture et livraison de denrées alimentaires de restauration collective pour le groupement de commandes constitué de la ville de fos sur mer et du CCAS - Lot 2 : Pâtisserie",
+        "code_departement": [
+            "13",
+            "26",
+            "34",
+            "83"
+        ],
+        "dateparution": "2020-07-11",
+        "nomacheteur": "Ville de Fos-sur-Mer",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-9736"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-88255",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-82738",
+        "id": "20_82738",
+        "objet": "Fourniture de pains et viennoiseries pour le Centre Communal d'Action Sociale de Toulon",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2020-07-01",
+        "nomacheteur": "C.C.A.S. de Toulon",
+        "titulaire": [
+            "Lfb",
+            "Lfb"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-39444",
+            "20-52825"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-82738",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-76976",
+        "id": "20_76976",
+        "objet": "Achats de fruits et légumes frais",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-06-18",
+        "nomacheteur": "AP-HM pour le compte du CHPA-CHIAP",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-38578",
+            "20-47462"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-76976",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-74279",
+        "id": "20_74279",
+        "objet": "Fourniture de denrées alimentaires pour l'Espace Ambroise Croizat - Commune de Miramas",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-06-12",
+        "nomacheteur": "Commune de Miramas",
+        "titulaire": [
+            "Sysco France Sas",
+            "Sysco France Sas",
+            "Passionfroid Groupe Pomona",
+            "Sas Pomona Episaveurs Sud",
+            "Sysco France Sas",
+            "Canavese Aubagne Sas"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-140610"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-74279",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-70901",
+        "id": "20_70901",
+        "objet": "Fourniture de produits d'épicerie pour les besoins des services du Département du Var",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2020-06-04",
+        "nomacheteur": "Conseil Général du Var",
+        "titulaire": [
+            "Pro A Pro Distribution Sud"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-192386"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-70901",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-68917",
+        "id": "20_68917",
+        "objet": "E20_303_TF",
+        "code_departement": [
+            "69",
+            "83"
+        ],
+        "dateparution": "2020-05-29",
+        "nomacheteur": "CHU Lyon",
+        "titulaire": [
+            "LA SURIENNE"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-13965"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-68917",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-59562",
+        "id": "20_59562",
+        "objet": "Fourniture de petite épicerie",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-05-06",
+        "nomacheteur": "Ville de Marseille",
+        "titulaire": [
+            "POMONA Episaveurs SAS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-141462"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-59562",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-50523",
+        "id": "20_50523",
+        "objet": "Marche Alimentaire 2020 -2022",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-04-10",
+        "nomacheteur": "COMMUNE DE MARTIGUES",
+        "titulaire": [
+            "Sarl Prima",
+            "Dorina Sud"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-103071",
+            "20-7416"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-50523",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-50728",
+        "id": "20_50728",
+        "objet": "fournitures de denrees alimentaires",
+        "code_departement": [
+            "13",
+            "84"
+        ],
+        "dateparution": "2020-04-10",
+        "nomacheteur": "COLLEGE LE RUISSATEL",
+        "titulaire": [
+            "GV RESTAURATION"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-167453"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-50728",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-48700",
+        "id": "20_48700",
+        "objet": "Fourniture et livraison de denrées alimentaires et de produits a usage unique pour le service de restauration",
+        "code_departement": [
+            "30",
+            "13",
+            "84"
+        ],
+        "dateparution": "2020-04-05",
+        "nomacheteur": "COLLEGE LE MOURION",
+        "titulaire": [
+            "BOULANGER RESPONSABLE",
+            "PRO A PRO DISTRIBUTION SUD SAS",
+            "SYSCO FRANCE SAS BRAKE",
+            "DISTRISUD",
+            "SALADE 2 FRUITS",
+            "SDA SOCIETE DE DISTRIBUTION AVICOLE SAS",
+            "SA ALES VIANDES",
+            "EUROFRUITS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-187665"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-48700",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-36358",
+        "id": "20_36358",
+        "objet": "Fourniture de denrées alimentaires",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2020-03-12",
+        "nomacheteur": "Ville de la Seyne sur Mer",
+        "titulaire": [
+            "POMONA TERRE AZUR",
+            "POMONA TERRE AZUR",
+            "SYSCO",
+            "NATURDIS",
+            "NATURDIS",
+            "POMONA EPISAVEURS",
+            "BSO",
+            "POMONA PASSION FROID",
+            "POMONA PASSION FROID",
+            "PATES LANZA",
+            "PAINDOR TOULON",
+            "LES CAVES PROVENCALES LABOROI",
+            "SDA",
+            "POMONA TERRE AZUR",
+            "ESPRI RESTAURATION",
+            "UNION DES ELEVEURS BIO",
+            "POMONA PASSION FROID",
+            "L'AVIE LE PETIT PRINCE"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-160808"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-36358",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-32145",
+        "id": "20_32145",
+        "objet": "approvisionnement en denrées alimentaires et assistance technique",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2020-03-03",
+        "nomacheteur": "EHPAD JEHAN RIPPERT",
+        "titulaire": [
+            "GV RESTAURATION"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-18384"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-32145",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-26357",
+        "id": "20_26357",
+        "objet": "Fourniture Et Livraison De Viandes Fraiches (5 lots)",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2020-02-21",
+        "nomacheteur": "EPARCA",
+        "titulaire": [
+            "Sas Alazard Et Roux",
+            "Sarl Bso",
+            "Sarl Bso",
+            "Sas Alazard Et Roux",
+            "Sas Alazard Et Roux"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-156458"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-26357",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-26287",
+        "id": "20_26287",
+        "objet": "Marché de fournitures de denrées alimentaires et boissons pour la cuisine centrale municipale",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2020-02-21",
+        "nomacheteur": "Ville de Trans en Provence",
+        "titulaire": [
+            "TRANSGOURMET MEDITERRANEE",
+            "POMONA PASSION FROID",
+            "TRANSGOURMET MEDITERRANEE",
+            "POMONA PASSION FROID"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-170593"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-26287",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-13302",
+        "id": "20_13302",
+        "objet": "fourniture de denrées alimentaires et de produits à usage unique lycée Jean Vilar",
+        "code_departement": [
+            "30",
+            "13",
+            "84"
+        ],
+        "dateparution": "2020-01-31",
+        "nomacheteur": "LYCEE GAL ET TECHNOLOGIQUE JEAN VILAR",
+        "titulaire": [
+            "BOULANGER RESPONSABLE",
+            "Pomona Episaveurs du Sud-Est",
+            "Pomona Passion Froid",
+            "Distrisud",
+            "APPROLOC",
+            "Société de Distribution Avicole",
+            "SOCOPA",
+            "Provence Primeurs",
+            "FIRST DIPAL",
+            "BOULANGER RESPONSABLE",
+            "Proxidélice",
+            "Proxidélice",
+            "BIOFINESSE",
+            "Provence Primeurs"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": null,
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-13302",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "20-13702",
+        "id": "20_13702",
+        "objet": "fourniture de denrées alimentaires",
+        "code_departement": [
+            "13",
+            "84",
+            "83"
+        ],
+        "dateparution": "2020-01-30",
+        "nomacheteur": "COLLEGE LES GORGUETTES GILBERT RASTOIN",
+        "titulaire": [
+            "AVENIR PROVENCE RESTAURATION"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "19-160324"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:20-13702",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "22-11071",
+        "id": "22_11071",
+        "objet": "Fourniture de pains frais pour les sites universitaires du Crous de Nice-Toulon",
+        "code_departement": [
+            "6",
+            "83"
+        ],
+        "dateparution": "2022-01-23",
+        "nomacheteur": "CROUS NICE-TOULON",
+        "titulaire": [
+            "Le Pétrin du Moulin",
+            "Le Pétrin du Moulin",
+            "Promethee"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-145684"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-11071",
+        "LOTS": ["Sites de Nice", "Sites de Sophia-Antipolis", "Sites du Var"],
+        "Duree": 4,
+        "date_debut": "2021-12-02",
+        "date_fin": "2025-12-02"
+    },
+    {
+        "idweb": "22-11448",
+        "id": "22_11448",
+        "objet": "Fourniture de denrées alimentaires et boissons pour la cuisine centrale municipale",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2022-01-23",
+        "nomacheteur": "Ville de Trans en Provence",
+        "titulaire": [
+            "transgourmet mediterranee",
+            "SYSCO FRANCE SAS",
+            "transgourmet mediterranee",
+            "transgourmet mediterranee",
+            "TERREAZUR COTE D'AZUR"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-105619"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-11448",
+        "LOTS": ["Produits surgelés", "Boucherie, volaille et charcuterie fraîches", "Epicerie et boissons", "Beurre, œufs, fromage", "Fruits et légumes frais"],
+        "Duree": 4,
+        "date_debut": "2021-12-20",
+        "date_fin": "2025-12-20"
+    },
+    {
+        "idweb": "22-2833",
+        "id": "22_2833",
+        "objet": "Achat De Denrées Alimentaires",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2022-01-08",
+        "nomacheteur": "GROUPEMENT D'ACHAT TOULON OUEST",
+        "titulaire": [
+            "Sysco France",
+            "Pro A Pro Distribution Sud Sas",
+            "Sysco France",
+            "Sysco France",
+            "Sysco France",
+            "Sysco France",
+            "Sysco France",
+            "Sysco France",
+            "Sysco France",
+            "Pro A Pro Distribution Sud Sas",
+            "Biofinesse",
+            "Felix Potin Provence"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-78839"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-2833",
+        "LOTS": [
+            "Beurre Oeuf Fromages",
+            "Produits Laitiers Desserts",
+            "Fromages à la coupe",
+            "Prép. viandes Surgelées",
+            "Prép. Salées Surgelées",
+            "Poissons Surgelés",
+            "Pdt-Frites Surgelées",
+            "Légumes surgelés",
+            "Pâtisserie Surgelée",
+            "Glaces-Sorbets",
+            "Alternative végétale surgelée Bio",
+            "Bio Légumes surgelés"
+        ],
+        "Duree": 2,
+        "date_debut": "2022-01-01",
+        "date_fin": "2023-12-31"
+    },
+    {
+        "idweb": "22-2634",
+        "id": "22_2634",
+        "objet": "Fourniture De Produits Alimentaires Frais, B.O.F Pour Le Groupement Des Commandes Hotelieres",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-01-08",
+        "nomacheteur": "CH MONTPERRIN",
+        "titulaire": [
+            "Passionfroid_paca",
+            "Societe Gephi",
+            "Passionfroid_paca",
+            "Pro A Pro Distribution Sud",
+            "Pro A Pro Distribution Sud",
+            "Sysco France Sas",
+            "Passionfroid_paca",
+            "Nutrisens Medical"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-144110"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-2634",
+        "LOTS": [
+            "Charcuterie, jambons cuits et divers réfrigérés",
+            "Pâtes farcies, pâtes simples fraîches - Gnocchis",
+            "Ovoproduits et omelettes",
+            "Beurres et fromages",
+            "Fromages frais et ultra frais",
+            "Quenelles sous vides",
+            "Salades préparées fraîches",
+            "Entrées mixées et viandes hachées moulées"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-01-01",
+        "date_fin": "2025-12-31"
+    },
+    {
+        "idweb": "21-170203",
+        "id": "21_170203",
+        "objet": "Accord-cadre pour la fourniture de produits dérivés d'inspiration romaine ou provençale pour les boutiques des musées départementaux - 13200 Arles (9 lots distincts)",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-12-29",
+        "nomacheteur": "Conseil Departementa des Bouches-du R",
+        "titulaire": [
+            "Mas des Tourelles",
+            "Association les retrouvailles",
+            "L'emporte pièce",
+            "Culture club 2000"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-55220"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-170203",
+        "LOTS": [
+            "Vins d'inspiration romaine",
+            "Condiments à base de recettes romaines",
+            "Monnaies et médailles",
+            "Jeux et jouets d'inspiration romaine",
+            "Jeux et jouets d'inspiration provençale",
+            "Vannerie d'inspiration romaine ou provençale",
+            "Kits de santons à peindre",
+            "Kits de conception de crèche",
+            "Kits créatifs de mosaïques de motifs romains"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-12-17",
+        "date_fin": "2025-12-16"
+    },
+    {
+        "idweb": "21-169046",
+        "id": "21_169046",
+        "objet": "Fournitures et livraison de denrées alimentaires",
+        "code_departement": [
+            "84",
+            "30",
+            "26",
+            "13"
+        ],
+        "dateparution": "2021-12-25",
+        "nomacheteur": "cc Rhône Lez Provence",
+        "titulaire": [
+            "Sysco France",
+            "Espri restauration",
+            "Alpes frais production"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-100069"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-169046",
+        "LOTS": [
+                "Charcuterie",
+                "Produits laitiers et fromages",
+                "Épicerie et produits secs",
+                "Volailles et lapins frais",
+                "Viande de boucherie fraîche",
+                "Poissons et crustacés frais",
+                "Légumes de 4e et 5e gamme",
+                "Traiteur plats cuisinés - viandes cuites de 5e gamme",
+                "Préparation surgelée pour service traiteur, pique-nique, pâtisserie salée et sucrée",
+                "Pâtisserie fraîche salée",
+                "Produits surgelés divers",
+                "Pâtes fraîches quenelles sauces",
+                "Fruits de saison",
+                "Légumes de saison"
+            ],
+            "Duree": 4,
+            "date_debut": "2021-12-17",
+            "date_fin": "2025-12-16"
+    },
+    {
+        "idweb": "21-168995",
+        "id": "21_168995",
+        "objet": "Achat - fournitures de denrées alimentaires",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-12-23",
+        "nomacheteur": "Mairie de Pélissanne",
+        "titulaire": [
+            "PRO A PRO DISTRIBUTION",
+            "POMONA PASSION FROID SAS",
+            "PRO A PRO DISTRIBUTION",
+            "MIDI VOLAILLES",
+            "MIDI VOLAILLES",
+            "POMONA PASSION FROID SAS",
+            "PRO A PRO DISTRIBUTION",
+            "PRO A PRO DISTRIBUTION",
+            "POMONA PASSION FROID SAS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-133253"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-168995",
+        "LOTS": [
+            "Viandes surgelées",
+            "Produits de la mer surgelés",
+            "Légumes et fruits surgelés",
+            "Viandes de boucherie en frais",
+            "Volaille en frais",
+            "Charcuterie et viandes cuites sous vide",
+            "Produits laitiers et avicoles",
+            "Produits d'épicerie : boissons, conserves, légumes, fruits, poissons, viandes, produits déshydratés",
+            "Produits préparés, glaces, pâtisseries, pâtes et farcis surgelés"
+        ],
+        "Duree": 2,
+        "date_debut": "2022-01-03",
+        "date_fin": "2024-01-02"
+    },
+    {
+        "idweb": "21-143311",
+        "id": "21_143311",
+        "objet": "Accord-cadre à bons de commande relatif à la fourniture de denrées alimentaires pour la DIMEF du Département des Bouches du Rhône",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-10-27",
+        "nomacheteur": "CONSEIL DEPARTEMENTAL 13",
+        "titulaire": [
+            "TERREAZUR MARÉE",
+            "TERREAZUR MAREE POMONA PASSION FROID"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-95775"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-143311",
+        "LOTS": [
+            "Epicerie sèche salée et sucrée",
+            "Produits surgelés",
+            "Fruits et légumes Marseille nord",
+            "Fruits et légumes Marseille sud",
+            "Fruits et légumes Reste du Département",
+            "Boissons non alcoolisées",
+            "Produits frais"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-10-21",
+        "date_fin": "2025-10-20"
+    },
+    {
+        "idweb": "21-139191",
+        "id": "21_139191",
+        "objet": "ACCORD-CADRE A BONS DE COMMANDE RELATIF A LA FOURNITURE DE DENREES ALIMENTAIRES POUR LA CONFECTION DE REPAS ORGANISES PAR LE DEPARTEMENT DES BOUCHES DU RHONE",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-10-20",
+        "nomacheteur": "Conseil Departementa des Bouches-du R",
+        "titulaire": [
+            "LA NATURE A TABLE",
+            "TERREAZUR MARÉE - PASSION FROID",
+            "TERREAZUR MARÉE - PASSION FROID",
+            "SARL SOOPRIM"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-83961"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-139191",
+        "LOTS": [
+            "Épicerie",
+            "Produits frais",
+            "Produits surgelés",
+            "Fruits et légumes"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-10-14",
+        "date_fin": "2025-10-13"
+    },
+    {
+        "idweb": "21-133579",
+        "id": "21_133579",
+        "objet": "Achat de pains divers et viennoiseries",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-10-08",
+        "nomacheteur": "GPT DE COOPERATION SANITAIRE PAYS AIX",
+        "titulaire": [
+            "La Fournée de Luynes"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-35806"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-133579",
+        "LOTS": ["Achat de pains divers et viennoiseries"],
+        "Duree": 4,
+        "date_debut": "2021-05-26",
+        "date_fin": "2025-05-25"
+    },
+    {
+        "idweb": "21-133365",
+        "id": "21_133365",
+        "objet": "Fourniture De Pains Frais Et Viennoiseries Pour Le Groupement Des Commandes Hôtelières",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-10-07",
+        "nomacheteur": "CH MONTPERRIN",
+        "titulaire": [
+            "Paindor Provence Frais"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-94312"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-133365",
+        "LOTS": [],
+        "Duree": 4,
+        "date_debut": "2021-09-13",
+        "date_fin": "2025-09-12"
+    },
+    {
+        "idweb": "21-120707",
+        "id": "21_120707",
+        "objet": "Fourniture de denrées alimentaires pour le Centre Communal d'Action Sociale de Toulon - Lot 2 : Viandes fraîches : volaille, lapin, porc boeuf, veau et agneau",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2021-09-10",
+        "nomacheteur": "C.C.A.S. de Toulon",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-92037"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-120707",
+        "LOTS": ["Viandes fraîches : bœuf, agneau, veau, porc et volaille"],
+        "Duree": 3,
+        "date_debut": "2021-10-01",
+        "date_fin": "2024-09-30"
+    },
+    {
+        "idweb": "21-117293",
+        "id": "21_117293",
+        "objet": "Fourniture et livraison de produits d'épicerie issus de l'agriculture biologique ou équivalent",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-09-02",
+        "nomacheteur": "EPARCA",
+        "titulaire": [
+            "Pomona Episaveurs Sud-Est Sas"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-43846"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-117293",
+        "LOTS": [],
+        "Duree": 4,
+        "date_debut": "2021-08-12",
+        "date_fin": "2025-08-11"
+    },
+    {
+        "idweb": "21-117292",
+        "id": "21_117292",
+        "objet": "Fourniture et livraison de produits alimentaires surgelés (2 lots)",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-09-02",
+        "nomacheteur": "EPARCA",
+        "titulaire": [
+            "Passionfroid- Groupe Pomona Sa",
+            "Sysco France Sas"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-42734"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-117292",
+        "LOTS": [
+            "Produits surgelés hors produits halieutiques",
+            "Produits halieutiques surgelés"
+          ],
+        "Duree": 4,
+        "date_debut": "2021-08-09",
+        "date_fin": "2025-08-08"
+    },
+    {
+        "idweb": "21-117289",
+        "id": "21_117289",
+        "objet": "Fourniture et livraison de produits laitiers et ovoproduits (2 lots)",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-09-02",
+        "nomacheteur": "EPARCA",
+        "titulaire": [
+            "Passionfroid Groupe Pomona Sa",
+            "Passionfroid Groupe Pomona Sa"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-38734",
+            "21-54090"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-117289",
+        "LOTS": [
+            "Epicerie Generale",
+            "Viandes, Charcuterie, Jambons ... Frais",
+            "Produits Laitiers Frais (beurre, formages, yaourts..) + Oeufs",
+            "Pates Fraiches (pâtes, raviolis, cappelletis...)",
+            "Produits Surgeles (viandes, volailles, poissons, légumes, patisseries, glaces)",
+            "Traiteurs Sales Frais (pizzas, quiches, tartes salées...)",
+            "Produits Exotiques (nems, samoussas...)"
+          ],
+          "Duree": 1,
+          "date_debut": "2021-08-13",
+          "date_fin": "2022-08-12"
+    },
+    {
+        "idweb": "21-112578",
+        "id": "21_112578",
+        "objet": "Fournitures de denrées alimentaires pour les différents sites de la ville du Pradet",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2021-08-19",
+        "nomacheteur": "Commune du Pradet",
+        "titulaire": [
+            "Episaveurs_sud_est",
+            "Alpes Frais Production"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-29462",
+            "21-39550",
+            "21-44463",
+            "21-57912"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-112578",
+        "LOTS": [
+            "Epicerie Generale",
+            "Viandes, Charcuterie, Jambons ... Frais",
+            "Produits Laitiers Frais (beurre, formages, yaourts..) + Oeufs",
+            "Pates Fraiches (pâtes, raviolis, cappelletis...)",
+            "Produits Surgeles (viandes, volailles, poissons, légumes, patisseries, glaces)",
+            "Traiteurs Sales Frais (pizzas, quiches, tartes salées...)",
+            "Produits Exotiques (nems, samoussas...)"
+          ],
+          "Duree": 1,
+          "date_debut": "2021-08-13",
+          "date_fin": "2022-08-12"
+    },
+    {
+        "idweb": "21-111140",
+        "id": "21_111140",
+        "objet": "Fourniture et livraison de denrées alimentaires de restauration collective.",
+        "code_departement": [
+            "13",
+            "34",
+            "83",
+            "84"
+        ],
+        "dateparution": "2021-08-14",
+        "nomacheteur": "Ville de Fos-sur-Mer",
+        "titulaire": [
+            "SARL PAIN ET PARTAGE MARSEILLE",
+            "LOCALIZZ SAS PLDP"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-23707"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-111140",
+        "LOTS": [
+            "Boulangerie",
+            "Fruits et légumes de saison"
+          ],
+          "Duree": 1,
+          "date_debut": "2021-06-30",
+          "date_fin": "2022-06-29"
+    },
+    {
+        "idweb": "21-110480",
+        "id": "21_110480",
+        "objet": "Fourniture des denrées alimentaires nécessaires au fonctionnement des cuisines de restauration scolaire et aux actions de protocole de la Commune",
+        "code_departement": [
+            "6",
+            "83"
+        ],
+        "dateparution": "2021-08-13",
+        "nomacheteur": "Mairie de Villeneuve-Loubet",
+        "titulaire": [
+            "SALADE DE FRUITS",
+            "NATURDIS",
+            "SYSCO FRANCE",
+            "MANGER BIO EN PROVENCE",
+            "SYSCO FRANCE",
+            "MANGER BIO EN PROVENCE",
+            "SYSCO FRANCE",
+            "PASSION FROID GROUPE POMONA",
+            "EPISAVEUR GROUPE POMONA",
+            "NATURDIS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-57012"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-110480",
+        "LOTS": [
+        "Fruits et légumes",
+        "Fruits et légumes BIO",
+        "Viandes fraîches et charcuterie",
+        "Viandes fraîches et charcuterie BIO",
+        "Produits surgelés",
+        "Produits surgelés BIO",
+        "Produits laitiers",
+        "Produits laitiers BIO",
+        "Epicerie",
+        "Epicerie BIO",
+        "Poissons frais"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-07-15",
+        "date_fin": "2025-07-14"
+    },
+    {
+        "idweb": "21-107117",
+        "id": "21_107117",
+        "objet": "Fourniture De Pains Et De Viennoiseries Repartis Par Services Pour La Prestation Du Petit-Dejeuner",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-08-04",
+        "nomacheteur": "APHM",
+        "titulaire": [
+            "les freres Le Moing"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-45630"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-107117",
+        "LOTS": [
+        "Pains et viennoiseries"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-07-06",
+        "date_fin": "2025-07-05"
+    },
+    {
+        "idweb": "21-96669",
+        "id": "21_96669",
+        "objet": "prestation logistique (achat-coordination-livraison) pour la distribution de denrées alimentaires du terroir au profit des associations caritatives de la ville d'avignon.",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2021-07-28",
+        "nomacheteur": "Ville d'Avignon",
+        "titulaire": [
+            "SARL CALI Distribution - Entreprise PROMOCASH"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": null,
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-96669",
+        "LOTS": [],
+        "Duree": null,
+        "date_debut": null,
+        "date_fin": null
+    },
+    {
+        "idweb": "21-94438",
+        "id": "21_94438",
+        "objet": "prestation logistique (achat-coordination-livraison) pour la distribution de denrées alimentaires du terroir au profit des associations caritatives de la ville d'avignon",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2021-07-28",
+        "nomacheteur": "Ville d'Avignon",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-56970"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-94438",
+        "LOTS": [
+            "Prestation logistique (achat-coordination-livraison) pour la distribution de denrées alimentaires"
+          ],
+        "Duree": 1,
+        "date_debut": "2021-07-28",
+        "date_fin": "2022-07-27"
+    },
+    {
+        "idweb": "21-95966",
+        "id": "21_95966",
+        "objet": "Achat De Denrées Alimentaires",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2021-07-11",
+        "nomacheteur": "GROUPEMENT D'ACHAT TOULON OUEST",
+        "titulaire": [
+            "Generale Frigorifique Distribution Lerda",
+            "Generale Frigorifique Distribution Lerda",
+            "Tsa Viandes",
+            "Generale Frigorifique Distribution Lerda",
+            "Sysco France Sas",
+            "Sysco France Sas",
+            "Sas Bernard - Groupe Jean Floc'H",
+            "Sarl L'Eurasienne",
+            "Terreazur Cote D'Azur - Groupe Pomona",
+            "Terreazur Cote D'Azur - Groupe Pomona",
+            "Terreazur Cote D'Azur - Groupe Pomona",
+            "Sarl Pates Lanza",
+            "Sysco France Sas",
+            "Pro A Pro Distribution Sud",
+            "Sysco France Sas",
+            "Pro A Pro Distribution Sud",
+            "Felix Potin Provence",
+            "Pro A Pro Distribution Sud",
+            "Pro A Pro Distribution Sud",
+            "Sas Pomona Episaveurs Sud-Est",
+            "Felix Potin Provence",
+            "Colin Rhd Marque Cote Ouest Restauration",
+            "Colin Rhd Marque Cote Ouest Restauration",
+            "Pro A Pro Distribution Sud",
+            "Felix Potin Provence",
+            "Pro A Pro Distribution Sud"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-21145",
+            "21-31086"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-95966",
+        "LOTS": [
+        "Fruits et Légumes frais Bio",
+        "Fruits et Légumes frais"
+        ],
+        "Duree": 1.5,
+        "date_debut": "2021-06-18",
+        "date_fin": "2022-12-31"
+    },
+    {
+        "idweb": "21-87483",
+        "id": "21_87483",
+        "objet": "Fourniture De Viandes Et Volailles Fraiches Et Cuites Et Entrees Charcutieres Pour Le Groupement Des Commandes Hôtelières",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-06-27",
+        "nomacheteur": "CH MONTPERRIN",
+        "titulaire": [
+            "Bernard",
+            "Sysco France Sas",
+            "Sysco France Sas",
+            "Alpes Frais Production",
+            "bigard",
+            "Joassan Freres"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-53675"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-87483",
+        "LOTS": [
+        "Viandes de porc fraîches",
+        "Viandes de volaille et lapin fraîches",
+        "Viandes, volailles et poissons cuits",
+        "Entrées et pâtisseries charcutières fraîches",
+        "Viandes bovines et ovines fraîches",
+        "Préparations à base de viandes"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-06-15",
+        "date_fin": "2025-06-14"
+    },
+    {
+        "idweb": "21-87480",
+        "id": "21_87480",
+        "objet": "Fourniture De Produits En Conserve Pour Le Groupement Des Commandes Hôtelières",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-06-27",
+        "nomacheteur": "CH MONTPERRIN",
+        "titulaire": [
+            "Pro A Pro Distribution Sud",
+            "Episaveurs_sud_est",
+            "Episaveurs_sud_est",
+            "Episaveurs_sud_est",
+            "Pro A Pro Distribution Sud"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-50037"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-87480",
+        "LOTS": [
+        "Légumes en conserve",
+        "Plats cuisinés, charcuterie et condiments en conserve",
+        "Poissons en conserve",
+        "Confitures, gelées, miel, fruits au sirop et à l'eau",
+        "Compotes, purées et mélanges de fruits, pruneaux, crème de marrons, pâte à tartiner"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-06-15",
+        "date_fin": "2025-06-14"
+    },
+    {
+        "idweb": "21-84698",
+        "id": "21_84698",
+        "objet": "Fourniture de fruits,légumes et Pdt frais en l'état ou élaborés(autres que surgelés, en conserve appertisée ou secs)issus de l'agriculture conventionnelle et biologique pour les be",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2021-06-23",
+        "nomacheteur": "Conseil Général du Var",
+        "titulaire": [
+            "Terreazur 83"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-15033"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-84698",
+        "LOTS": [
+        "Fruits et légumes de saison"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-06-09",
+        "date_fin": "2025-06-08"
+    },
+    {
+        "idweb": "21-83191",
+        "id": "21_83191",
+        "objet": "Achat et livraison de produits réfrigérés, surgelés et laitiers",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2021-06-19",
+        "nomacheteur": "COMMUNE DE CARQUEIRANNE",
+        "titulaire": [
+            "Sysco France SAS",
+            "Sysco France SAS",
+            "Sysco France SAS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": null,
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-83191",
+        "LOTS": [
+        "Achat de produits réfrigérés",
+        "Achat de produits surgelés",
+        "Achat de produits laitiers"
+        ],
+        "Duree": 1,
+        "date_debut": "2021-05-17",
+        "date_fin": "2022-05-16"
+    },
+    {
+        "idweb": "21-69737",
+        "id": "21_69737",
+        "objet": "Fourniture et pose et petites réparations de rideaux, stores et films solaires pour les bâtiments communaux de la ville de Fos sur Mer.",
+        "code_departement": [
+            "13",
+            "34",
+            "83",
+            "84"
+        ],
+        "dateparution": "2021-05-27",
+        "nomacheteur": "Ville de Fos-sur-Mer",
+        "titulaire": [
+            "Sarl yitiss",
+            "Sarl ar'deco"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-151128"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-69737",
+        "LOTS": [
+        "Fourniture et pose de rideaux, stores et films solaires pour les huisseries des bâtiments communaux",
+        "Petites réparations rideaux tissu et stores à lamelles verticales"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-05-03",
+        "date_fin": "2025-05-02"
+
+    },
+    {
+        "idweb": "21-68929",
+        "id": "21_68929",
+        "objet": "Fourniture et livraison de denrées alimentaires de restauration collective.",
+        "code_departement": [
+            "13",
+            "83",
+            "84"
+        ],
+        "dateparution": "2021-05-23",
+        "nomacheteur": "Ville de Fos-sur-Mer",
+        "titulaire": [
+            "NATURDIS",
+            "SAS POMONA EPISAVEURS SUD EST"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-148350"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-68929",
+        "LOTS": [
+        "Produits d'épicerie bio",
+        "Produits d'épicerie"
+        ],
+        "Duree": 3,
+        "date_debut": "2021-05-17",
+        "date_fin": "2024-05-16"
+    },
+    {
+        "idweb": "21-66154",
+        "id": "21_66154",
+        "objet": "Fourniture de denrées alimentaires pour les crèches intercommunales",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2021-05-19",
+        "nomacheteur": "LUBERON MONTS DE VAUCLUSE",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-28507"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-66154",
+        "LOTS": [
+            "Epiceries",
+            "Produits frais / BOF", 
+            "Produits surgelés"
+          ],
+        "Duree": 4,
+        "date_debut": "2021-05-17",
+        "date_fin": "2025-05-16"
+    },
+    {
+        "idweb": "21-60429",
+        "id": "21_60429",
+        "objet": "2020/10 et 2020/15 Denrées alimentaires",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2021-05-07",
+        "nomacheteur": "Ville de Pertuis",
+        "titulaire": [
+            "ALAZARD ET ROUX",
+            "ESPRI RETAURATION",
+            "SOCOPA VIANDES",
+            "SDA Société Distribution Avicole",
+            "ESPRI RESTAURATION",
+            "PASSION FROID PACA - POMONA",
+            "SALADE DE FRUITS",
+            "VITALE EIRL",
+            "SOOPRIM",
+            "POMONA EPISAVEURS SUD EST",
+            "PASSION FROID PACA - POMONA",
+            "PASSION FROID PACA - POMONA",
+            "SYSCO FRANCE",
+            "SYSCO FRANCE",
+            "JUBEAUX",
+            "PASSION FROID PACA - POMONA"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-109819"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-60429",
+        "LOTS": [
+        "Boulangerie",
+        "Fruits et légumes de saison"   
+        ],
+        "Duree": 4,
+        "date_debut": "2021-04-27",
+        "date_fin": "2025-04-26"
+    },
+    {
+        "idweb": "21-44774",
+        "id": "21_44774",
+        "objet": "Fourniture de viande et charcuterie fraîches conditionnées sous-vide pour les besoins des services du Conseil Départemental du Var - Secteur Toulon, Le Pradet et Draguignan",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2021-04-04",
+        "nomacheteur": "Conseil Général du Var",
+        "titulaire": [
+            "Générale Frigorifique Distribution Lerda"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-157729"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-44774",
+        "LOTS": [
+        "Viande et charcuterie fraîches conditionnées sous-vide"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-04-02",
+        "date_fin": "2025-04-01"
+    },
+    {
+        "idweb": "21-41321",
+        "id": "21_41321",
+        "objet": "Achats de produits alimentaires pour l'Ecole Hôtelière d'Avignon",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2021-03-28",
+        "nomacheteur": "CCI de Vaucluse",
+        "titulaire": [
+            "POMONA EPISAVEURS SUD EST",
+            "POMONA PASSION FROID",
+            "POMONA PASSION FROID",
+            "PROVENCE PRIMEURS",
+            "SALADE 2 FRUITS",
+            "LA CHEVILLE PROVENCALE",
+            "SALADE 2 FRUITS",
+            "POMONA PASSION FROID",
+            "LAVAZZA"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-105197"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-41321",
+        "LOTS": [
+        "Epicerie",
+        "Beurres, œufs et fromages",
+        "Produits surgelés",
+        "Fruits/légumes frais",
+        "Poisson frais",
+        "Viandes fraiches (hors volailles)",
+        "Volailles",
+        "Charcuterie",
+        "Boissons",
+        "Cafés, thés, infusions"
+        ],
+        "Duree": 3,
+        "date_debut": "2021-01-14",
+        "date_fin": "2024-01-13"
+    },
+    {
+        "idweb": "21-38651",
+        "id": "21_38651",
+        "objet": "Fourniture de Denrées Alimentaires et Assistance Technique à la commande - Ehpad Lou Cigalou - Les Mées",
+        "code_departement": [
+            "4",
+            "13"
+        ],
+        "dateparution": "2021-03-25",
+        "nomacheteur": "Centre Hospitalier de Digne-les-Bains",
+        "titulaire": [
+            "synergie restauration"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-130319"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-38651",
+        "LOTS": [],
+        "Duree": 4,
+        "date_debut": "2020-12-28",
+        "date_fin": "2024-12-27"
+    },
+    {
+        "idweb": "21-32746",
+        "id": "21_32746",
+        "objet": "Fourniture De Fruits Et Legumes Frais, De Produits Iveme Et Veme Gamme Pour Le Groupement Des Commandes Hotelieres",
+        "code_departement": [
+            "13",
+            "83",
+            "84"
+        ],
+        "dateparution": "2021-03-13",
+        "nomacheteur": "CH MONTPERRIN",
+        "titulaire": [
+            "Terreazur",
+            "Terreazur"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-133107"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-32746",
+        "LOTS": [
+        "Fruits et légumes frais",
+        "Produits IVème et Vème gammes"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-02-26",
+        "date_fin": "2025-02-25"
+    },
+    {
+        "idweb": "21-32745",
+        "id": "21_32745",
+        "objet": "Fourniture De Produits D'Epicerie Pour Groupement Des Commandes Hôtelières",
+        "code_departement": [
+            "13",
+            "83",
+            "84"
+        ],
+        "dateparution": "2021-03-13",
+        "nomacheteur": "CH MONTPERRIN",
+        "titulaire": [
+            "Pro A Pro Distribution Sud",
+            "Episaveurs_sud_est",
+            "Pro A Pro Distribution Sud",
+            "Episaveurs_sud_est",
+            "Pro A Pro Distribution Sud",
+            "Episaveurs_sud_est"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-131203"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-32745",
+        "LOTS": [
+        "Féculents, céréales, légumes secs et purées de pommes de terre déshydratées",
+        "Potages déshydratés",
+        "Huiles, assaisonnements, épices et aromates divers",
+        "Biscottes, pain de mie, biscuits et gâteaux divers",
+        "Lait, cafés, boissons chocolatées, thés, sucres et édulcorants",
+        "Produit de pâtisserie et divers"
+        ],
+        "Duree": 4,
+        "date_debut": "2020-12-18",
+        "date_fin": "2024-12-17"
+    },
+    {
+        "idweb": "21-31793",
+        "id": "21_31793",
+        "objet": "FOURNITURE ET LIVRAISON DE DENREES ALIMENTAIRES POUR LA VILLE D'ALLAUCH",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-03-12",
+        "nomacheteur": "Commune d'Allauch",
+        "titulaire": [
+            "SARL SOFAC",
+            "SYSCO FRANCE SAS",
+            "SYSCO FRANCE SAS",
+            "SAS DISTRISUD",
+            "PRO A PRO DISTRIBUTION SUD",
+            "POMONA TERRE AZUR",
+            "SAS NATURDIS",
+            "SAS POMONA EPI SAVEURS SUD EST",
+            "ESPRI RESTAURATION",
+            "ENTREPRISE FANTINO",
+            "SYSCO FRANCE SAS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-95641"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-31793",
+        "LOTS": [
+        "Viandes et volailles fraîches crues",
+        "Surgelés (Viandes, volailles, poissons, produits de la mer, légumes, fruits, préparations composites)",
+        "Surgelés BIOLOGIQUES (préparations composites et légumes)",
+        "Lait et dérivés, ovo produits frais",
+        "Laits et dérivés, ovo produits frais BIOLOGIQUES",
+        "Epicerie",
+        "Légumes 5ème gamme BIOLOGIQUES",
+        "Pâtes, riz, fruits et légumes secs BIOLOGIQUES",
+        "Epicerie et conserves BIOLOGIQUES",
+        "Viandes cuites sous vide",
+        "Pâtes fraîches",
+        "Charcuterie - Saucisserie"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-02-01",
+        "date_fin": "2025-01-31"
+    },
+    {
+        "idweb": "21-23814",
+        "id": "21_23814",
+        "objet": "fourniture de denrées alimentaires",
+        "code_departement": [
+            "83",
+            "5",
+            "84",
+            "4",
+            "13"
+        ],
+        "dateparution": "2021-03-11",
+        "nomacheteur": "Commune de Vinon-Sur-Verdon",
+        "titulaire": [
+            "GENERALE FRIGORIFIQUE DISTRIBUTION",
+            "GENERALE FRIGORIFIQUE DISTRIBUTION",
+            "GENERALE FRIGORIFIQUE DISTRIBUTION",
+            "TRANSGOURMET MEDITERRANEE",
+            "SYSCO FRANCE SAS",
+            "PRO A PRO DISTRIBUTION SUD SAS",
+            "SAS SOCIETE NOUVEL ABEIL"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-32294"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-23814",
+        "LOTS": [
+        "Viandes fraîches",
+        "Charcuteries",
+        "Volailles fraîches",
+        "Lait-beurre-ufs-fromage",
+        "Surgelés-glaces",
+        "Epicerie générale",
+        "Fruits et légumes"
+        ],
+        "Duree": 3,
+        "date_debut": "2021-03-01",
+        "date_fin": "2024-02-29"
+    },
+    {
+        "idweb": "21-29375",
+        "id": "21_29375",
+        "objet": "Fourniture et livraison de denrées alimentaires pour la cuisine centrale dela commune de TRET",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-03-06",
+        "nomacheteur": "Mairie de Trets",
+        "titulaire": [
+            "PassionFroid Groupe POMONA",
+            "SAS Pomona Episaveurs sud est",
+            "SAS Pomona Episaveurs sud est",
+            "SYSCO FRANCE SAS",
+            "NATURDIS",
+            "GEPHI SARL",
+            "GEPHI SARL",
+            "PLDP LOCALIZZ",
+            "NATURDIS",
+            "PassionFroid Groupe POMONA",
+            "PassionFroid Groupe POMONA",
+            "CERES DISTRIBUTION"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-112544"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-29375",
+        "LOTS": [
+        "Produits laitiers conventionnels et BIO",
+        "Epicerie conventionnelle",
+        "Epicerie BIO",
+        "Produits surgelés conventionnels",
+        "Légumes et alternatives végétales surgelés BIO",
+        "Viande de Boucherie fraîche : Bouf, Veau, Agneau, Porc",
+        "Viande de volaille fraîche de qualité supérieure",
+        "Fruit et légumes Frais de saison issus de l'agriculture biologique",
+        "Légumes de 4e et 5e gamme BIO et pâtes fraîches BIO",
+        "Ovoproduits frais conventionnels et BIO",
+        "Charcuterie",
+        "Produits de la pêche frais"
+        ],
+        "Duree": 4,
+        "date_debut": "2021-02-25",
+        "date_fin": "2025-02-24"
+    },
+    {
+        "idweb": "21-19647",
+        "id": "21_19647",
+        "objet": "La consultation a pour objet la fourniture de denrées pour le(s) service(s) de restauration du pouvoir adjudicateur Les caractéristiques techniques devront répondre aux prescriptions du CCTP.",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2021-02-13",
+        "nomacheteur": "Proclub",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-108064"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-19647",
+        "LOTS": [
+        "Epicerie - circuit long",
+        "Produits surgelés - circuit long",
+        "Produits laitiers et ovo produits - circuit long",
+        "Viande fraîche de bœuf - veau - agneau - circuit long",
+        "Viande fraîche de porc - salaisons - charcuterie - circuit long",
+        "Viande cuite et élaborée - circuit long",
+        "Produits traiteur frais - circuit long",
+        "Produits issus de l'agriculture biologique - circuit long"
+        ],
+        "Duree": 1,
+        "date_debut": "2021-01-04",
+        "date_fin": "2022-01-03"
+    },
+    {
+        "idweb": "21-16032",
+        "id": "21_16032",
+        "objet": "Fourniture et livraison de denrées alimentaires de restauration collective.3 lots.",
+        "code_departement": [
+            "13",
+            "83",
+            "84"
+        ],
+        "dateparution": "2021-02-06",
+        "nomacheteur": "Ville de Fos-sur-Mer",
+        "titulaire": [
+            "Passionfroid groupe pomona",
+            "Sas sysco france",
+            "Passionfroid groupe pomona"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-114431"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-16032",
+        "LOTS": [
+        "Charcuterie",
+        "Anchois et semi-conserve",
+        "Préparations réfrigérées composites élaborées"
+        ],
+        "Duree": 3,
+        "date_debut": "2021-02-01",
+        "date_fin": "2024-01-31"
+    },
+    {
+        "idweb": "21-14616",
+        "id": "21_14616",
+        "objet": "20four12-Accord Cadre A Bons De Commande De Fournitures De Denrees Alimentaires Pour L'Ensemble Du Territoire De La Metropole",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2021-02-03",
+        "nomacheteur": "Métropole Toulon Provence Méditerranée",
+        "titulaire": [
+            "Sarl Lutinise"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-123776"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-14616",
+        "LOTS": [],
+        "Duree": 4,
+        "date_debut": "2021-01-22",
+        "date_fin": "2025-01-21"
+    },
+    {
+        "idweb": "21-10249",
+        "id": "21_10249",
+        "objet": "fourniture et livraison de denrées alimentaire pour collectivité",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2021-01-24",
+        "nomacheteur": "COLLEGE LE RUISSATEL",
+        "titulaire": [
+            "GV RESTAURATION"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-129898"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:21-10249",
+        "LOTS": [],
+        "Duree": 1,
+        "date_debut": "2020-12-02",
+        "date_fin": "2021-12-01"
+    },
+    {
+        "idweb": "23-9944",
+        "id": "23_9944",
+        "objet": "ACHATS DE DENREES ALIMENTAIRES 2023/2026 DESTINEES A LA RESTAURATION MUNICIPALE DE LA VILLE D'AIX-EN-PROVENCE.",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2023-01-22",
+        "nomacheteur": "Caisse des Ecoles Aix en Provence",
+        "titulaire": [
+            "MIDI VOLAILLES SAS",
+            "SYSCO FRANCE SAS",
+            "GFD LERDA SAS",
+            "SYSCO FRANCE SAS",
+            "SYSCO FRANCE SAS",
+            "POMONA PASSION FROID SA",
+            "ESPRI RESTAURATION",
+            "SYSCO FRANCE SAS",
+            "POMONA TERRE AZUR",
+            "POMONA TERRE AZUR",
+            "TRANSGOURMET MEDITERRANEE",
+            "SYSCO FRANCE SAS",
+            "TRANSGOURMET MEDITERRANEE",
+            "PAIN ET PARTAGE MARSEILLE",
+            "SAS POMONA EPISAVEURS",
+            "POMONA EPISAVEURS",
+            "POMONA EPISAVEURS",
+            "SDA - SOCIETE DE DISTRIBUTION AVICOLE SAS",
+            "ESPRI RESTAURATION",
+            "GROUPE BIGARD",
+            "SCOP UNISVERT",
+            "TRANSGOURMET LEDITERRANEE",
+            "SDA - SOCIETE DE DISTRIBUTION AVICOLE SAS",
+            "GROUPE BIGARD",
+            "SCOP UNISVERT",
+            "POMONA EPISAVEURS",
+            "POMONA TERRE AZUR",
+            "POMONA TERRE AZUR"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-93100"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:23-9944",
+        "LOTS": [
+            "Viande de porc sous-vide éligible à la loi Egalim",
+            "Produits à base de viande de porc cuite ou crue et salée sous-vide",
+            "Jambon cuit sous-vide",
+            "Préparation fraîche à base de volaille",
+            "Viande de bœuf hachée crue surgelée", 
+            "Découpes de volaille crue surgelée",
+            "Braisé de bœuf cuit",
+            "Poisson et produit de la mer surgelés",
+            "Poisson pané cuit, produit de la mer élaborés",
+            "Salades et crudités 4° gamme",
+            "Fruits, légumes et pommes de terre précuits",
+            "Fruits, légumes et pommes de terre surgelés",
+            "Préparations alimentaires surgelées",
+            "Pain issu de l'agriculture biologique",
+            "Conserves fruits, légumes, viandes, poissons et boissons",
+            "Céréales et dérivés, produits déshydratés, condiments, épices, aromates et confiseries",
+            "Huiles alimentaires",
+            "Découpes de volaille fraiche sous-vide éligible à la loi Egalim",
+            "Rôti de veau cuit",
+            "Rôti de porc cuit",
+            "Rôti de bœuf cuit issu de l'agriculture biologique",
+            "Préparations 5ème gamme",
+            "Découpes de volaille fraiche sous-vide",
+            "Rôti de gigot d'agneau cuit",
+            "Fruits, légumes et pommes de terre surgelés issus de l'agriculture biologique",
+            "Céréales et dérivés, produits déshydratés, confiseries, produits éligibles à la loi Egalim",
+            "Salades et crudités 4e gamme issues de l'agriculture biologique",
+            "Fruits, légumes et pommes de terre précuits issus de l'agriculture biologique"
+          ],
+          "Duree": 4,
+          "date_debut": "2022-12-12",
+          "date_fin": "2026-12-31"
+    },
+    {
+        "idweb": "23-8497",
+        "id": "23_8497",
+        "objet": "Fourniture de denrées alimentaires pour les collèges publics de Vaucluse, des Centres de loisirs et de la crèche départementale",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2023-01-20",
+        "nomacheteur": "Département de Vaucluse",
+        "titulaire": [
+            "EPISAVEURS SUD EST",
+            "EPISAVEURS SUD EST",
+            "BDG+ (Bretagne Desserts Gavroche)",
+            "EPISAVEURS SUD EST",
+            "LOCAL EN BOCAL",
+            "SYSCO FRANCE",
+            "SOCOPA VIANDES",
+            "SOCOPA VIANDES",
+            "ALAZARD ET ROUX",
+            "STE DISTRIBUTION ALVICOLE",
+            "SYSCO FRANCE",
+            "VITALE"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-114562",
+            "22-116412"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:23-8497",
+        "LOTS": [
+        "Fruits et légumes frais de saison",
+        "Fruits et légumes frais de saison BIO"
+        ],
+        "Duree": 2,
+        "date_debut": "2022-12-22",
+        "date_fin": "2023-12-21"
+    },
+    {
+        "idweb": "23-3828",
+        "id": "23_3828",
+        "objet": "fourniture et livraison de denrées alimentaires",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2023-01-12",
+        "nomacheteur": "MAIRIE DE VEDENE",
+        "titulaire": [
+            "SYSCO FRANCE SAS",
+            "SYSCO FRANCE SAS",
+            "SALADE 2 FRUITS",
+            "LANGUEDOC LOZERE VIANDE",
+            "Société de Distribution Avicole SAS",
+            "POMONA PASSION FROID",
+            "POMONA PASSION FROID",
+            "POMONA EPISAVEURS",
+            "BIOFINESSE"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": null,
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:23-3828",
+        "LOTS": [
+            "Produits surgelés : légumes, viandes, plats préparés et desserts",
+            "Poissons surgelés",
+            "Fruits et légumes & 4° et 5° gammes",
+            "Viandes fraiches",
+            "Volailles fraiches", 
+            "Charcuterie",
+            "Produits laitiers et ovo-produits",
+            "Epicerie sèche et boissons",
+            "Produits bio : surgelés, frais et épicerie"
+          ],
+          "Duree": 3,
+          "date_debut": "2023-01-03",
+          "date_fin": "2026-01-02"
+    },
+    {
+        "idweb": "22-158805",
+        "id": "22_158805",
+        "objet": "2022-AP2700AC",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2023-01-02",
+        "nomacheteur": "Commune de Sainte-Maxime",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-135757"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-158805",
+        "LOTS": [
+        "Boulangerie"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-12-27",
+        "date_fin": "2026-12-26"
+    },
+    {
+        "idweb": "23-157",
+        "id": "23_157",
+        "objet": "Fourniture De Gouters De Noel",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2023-01-02",
+        "nomacheteur": "APHM",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-116075"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:23-157",
+        "LOTS": [
+            "Gouters de Noel"
+          ],
+          "Duree": 1,
+          "date_debut": "2022-11-17",
+          "date_fin": "2023-11-16"
+    },
+    {
+        "idweb": "22-172060",
+        "id": "22_172060",
+        "objet": "Denrées alimentaires pour la Résidence Autonomie Sans Souci et annexes du CCAS",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2023-01-01",
+        "nomacheteur": "CCAS d'Aix en Provence",
+        "titulaire": [
+            "JOASSAN FRERES SARL",
+            "PRO A PRO DISTRIBUTION SAS",
+            "SYSCO FRANCE SAS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-110720"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-172060",
+        "LOTS": [
+        "Viandes fraiches sous vide",
+        "Epicerie et boissons",
+        "Charcuterie, saucisserie et préparations alimentaires de 5ème gamme"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-12-21",
+        "date_fin": "2026-12-20"
+    },
+    {
+        "idweb": "22-171912",
+        "id": "22_171912",
+        "objet": "Achat de produits alimentaire de type épicerie 'Distribution Automatique'",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-12-30",
+        "nomacheteur": "AP-HM pour le compte du CHPA-CHIAP",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-143565"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-171912",
+        "LOTS": [
+        "Épicerie Distribution Automatique"
+        ],
+        "Duree": 1,
+        "date_debut": "2022-12-29",
+        "date_fin": "2023-12-28"
+    },
+    {
+        "idweb": "22-168692",
+        "id": "22_168692",
+        "objet": "fourniture et livraison de denrées alimentaires pour des menus intégrant les critères de développement durable en 7 lots sur 4 ans.",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2022-12-23",
+        "nomacheteur": "Commune de Brignoles",
+        "titulaire": [
+            "SO BIO",
+            "PASSION FROID groupe POMONA",
+            "PASSION FROID groupe POMONA",
+            "SDA"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-16203"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-168692",
+        "LOTS": [
+        "Viandes fraîches de bœuf et de veau",
+        "Viandes fraîches de porc",
+        "Viandes fraîches d'agneau",
+        "Viandes fraîches de volaille",
+        "Légumes frais",
+        "Fruits frais",
+        "Fromages frais"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-06-15",
+        "date_fin": "2026-06-14"
+    },
+    {
+        "idweb": "22-165530",
+        "id": "22_165530",
+        "objet": "fourniture et livraison de denrées alimentaires",
+        "code_departement": [
+            "13",
+            "30",
+            "84"
+        ],
+        "dateparution": "2022-12-17",
+        "nomacheteur": "COLLEGE PAUL VALERY",
+        "titulaire": [
+            "BOULANGER RESPONSABLE",
+            "SYSCO",
+            "SYSCO",
+            "ETABLISSEMENT RIBOT",
+            "SYSCO"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-127672"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-165530",
+        "LOTS": [
+        "PAIN BIO",
+        "EPICERIE",
+        "EPICERIE BIO",
+        "BEURRE OEUF FROMAGE",
+        "PRODUITS SURGELES",
+        "VOLAILLES ET LAPINS",
+        "VIANDES DIVERSES",
+        "FRUITS ET LEGUMES"
+        ],
+        "Duree": 3,
+        "date_debut": "2023-01-01",
+        "date_fin": "2025-12-31"
+    },
+    {
+        "idweb": "22-165597",
+        "id": "22_165597",
+        "objet": "Fourniture et livraison de produits laitiers destinés à la collation des donneurs de sang bénévoles de l'EFS PACA-Corse",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-12-17",
+        "nomacheteur": "Etablissement Français du Sang",
+        "titulaire": [
+            "PassionFroid Groupe POMONA",
+            "PassionFroid Groupe POMONA"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-106448"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-165597",
+        "LOTS": [
+        "Produits laitiers - Site de Marseille République",
+        "Produits laitiers - Site de Marseille Vallée Verte",
+        "Produits laitiers - Site d'Aix en Provence",
+        "Produits laitiers - Site de Saint Laurent du Var",
+        "Produits laitiers - Site de Nice",
+        "Produits laitiers - Site de Toulon",
+        "Produits laitiers - Site d'Arles",
+        "Produits laitiers - Site d'Avignon",
+        "Produits laitiers - Site de Gap",
+        "Produits laitiers - Site de Briançon"
+        ],
+        "Duree": 4,
+        "date_debut": "2023-01-01",
+        "date_fin": "2026-12-31"
+    },
+    {
+        "idweb": "22-164943",
+        "id": "22_164943",
+        "objet": "Acquisition de denrées alimentaires destinées aux restaurants scolaires et structures de la petite enfance",
+        "code_departement": [
+            "6",
+            "83"
+        ],
+        "dateparution": "2022-12-16",
+        "nomacheteur": "Ville d'Antibes Juan-les-Pins",
+        "titulaire": [
+            "Passion froid",
+            "Passion froid",
+            "Passion froid",
+            "Les ferrages de chateauneuf",
+            "POMONA EPISAVEURS",
+            "PASSION FROID - Groupe POMONA",
+            "LA CREILLOISE DE PANIFICATION",
+            "LA SURIENNE"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-98734"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-164943",
+        "LOTS": [
+            "Viande fraîche de boucherie (bœuf, veau, agneau et porc)",
+            "Viande fraîche de volaille et charcuterie - Traiteur", 
+            "Produits laitiers ou à base de fruits frais, œufs",
+            "Fruits, légumes à l'état frais conventionnels, Bio et HVE - Pommes de terre à l'état frais et légumes de 4e et 5ème gamme",
+            "Fruits et légumes à l'état frais conventionnels, Bio et HVE issus de circuits courts",
+            "Epicerie",
+            "Produits surgelés",
+            "Pain et Viennoiserie",
+            "Pique-nique, goûters emballés, confiserie et chocolaterie"
+          ],
+          "Duree": 4,
+          "date_debut": "2022-12-13", 
+          "date_fin": "2026-12-12"
+    },
+    {
+        "idweb": "22-163014",
+        "id": "22_163014",
+        "objet": "Achat De Denrées Alimentaires",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2022-12-11",
+        "nomacheteur": "GROUPEMENT D'ACHAT TOULON OUEST",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-88493"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-163014",
+        "LOTS": [
+        "Volailles",
+        "Viandes d'agneau",
+        "Viandes bovin veau",
+        "Viandes de porcs",
+        "Charcuterie",
+        "Charcuterie à cuire",
+        "Jambon-épaule",
+        "Préparations salées fraîches exotiques",
+        "Fruits et Légumes sous vide",
+        "Fruits et Légumes frais Bio",
+        "Fruits et Légumes frais",
+        "Pâtes fraîches",
+        "Saurisserie-semi frais",
+        "Alternative végétale Bio fraîche",
+        "Conserves de légumes",
+        "Conserves de poissons",
+        "Conserves de fruits Compotes Confitures",
+        "Légumes secs, produits céréaliers",
+        "épicerie sèche sucrée",
+        "épicerie sèche salée",
+        "Pâtisseries Biscuits secs",
+        "épices Condiments",
+        "Préparations Culinaires sucrées",
+        "Fonds Bouillons",
+        "Boissons non alcoolisées",
+        "Lot Vins",
+        "Alcools modifiés traiteurs",
+        "Huiles"
+        ],
+        "Duree": 2,
+        "date_debut": "2023-01-01",
+        "date_fin": "2024-12-31"
+    },
+    {
+        "idweb": "22-161005",
+        "id": "22_161005",
+        "objet": "Fruits, légumes à l'état frais conventionnels, Bio et HVE - Pommes de terre à l'état frais et légumes de 4ème et 5ème gamme",
+        "code_departement": [
+            "6",
+            "83"
+        ],
+        "dateparution": "2022-12-08",
+        "nomacheteur": "Ville d'Antibes Juan-les-Pins",
+        "titulaire": [
+            "SALADE 2 FRUITS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-132452"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-161005",
+        "LOTS": [
+        "Fruits, légumes à l'état frais conventionnels, Bio et HVE - Pommes de terre à l'état frais et légumes de 4e et 5ème gamme"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-12-02",
+        "date_fin": "2026-12-01"
+    },
+    {
+        "idweb": "22-147439",
+        "id": "22_147439",
+        "objet": "Fourniture Et Livraison De Charcuteries Et Assimiles",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-11-03",
+        "nomacheteur": "EPARCA",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-109389"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-147439",
+        "LOTS": [
+        "Charcuteries et assimilés"
+        ],
+        "Duree": 3,
+        "date_debut": "2022-10-26",
+        "date_fin": "2025-10-25"
+    },
+    {
+        "idweb": "22-135627",
+        "id": "22_135627",
+        "objet": "FOURNITURE ET LIVRAISON DE REPAS FROIDS PREPARES",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-10-20",
+        "nomacheteur": "Ville de Marseille",
+        "titulaire": [
+            "SAS GOUT ET SENS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-102835"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-135627",
+        "LOTS": [
+        "Fourniture et livraison de repas froids préparés"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-10-07",
+        "date_fin": "2026-10-06"
+    },
+    {
+        "idweb": "22-134201",
+        "id": "22_134201",
+        "objet": "Fourniture et livraison de viande fraîche et réalisation de prestations accessoires pour la centrale d'achat régionale Provence-Alpes-Côte d'Azur",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-10-09",
+        "nomacheteur": "Région Provence Alpes Côte d'Azur",
+        "titulaire": [
+            "Collectif D'éleveurs Alpins",
+            "Collectif D'éleveurs Alpins",
+            "Echanges Paysans",
+            "Echanges Paysans",
+            "Echanges Paysans",
+            "Echanges Paysans",
+            "Sas Pldp Localizz",
+            "La Cheville Provencale",
+            "Sas Pldp Localizz"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-23983"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-134201",
+        "LOTS": [
+        "Viande de boeuf - Départements 04 et 05",
+        "Viande de boeuf - Départements 13 et 84",
+        "Viande de boeuf - Départements 83 et 06",
+        "Viande de porc - Départements 04 et 05",
+        "Viande de porc - Départements 13 et 84",
+        "Viande de porc - Départements 83 et 06",
+        "Viande de taureau - Départements 04 et 05",
+        "Viande de taureau - Départements 13 et 84",
+        "Viande de taureau - Départements 83 et 06"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-06-27",
+        "date_fin": "2026-06-26"
+    },
+    {
+        "idweb": "22-118162",
+        "id": "22_118162",
+        "objet": "Fourniture et Livraison de denrées alimentaires pour la Cuisine Centrale",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2022-09-03",
+        "nomacheteur": "Mairie de Courthezon",
+        "titulaire": [
+            "PASSION FROID",
+            "MANGER BIO EN PROVENCE",
+            "PASSIONFROID",
+            "PASSIONFROID",
+            "PRO A PRO"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-32616"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-118162",
+        "LOTS": [
+        "Surgelés de légumes, poissons, viandes et desserts - normé Produits HVE et Produit CE2",
+        "Fruits et légumes frais bio et fruits et légumes frais non bio",
+        "Produits laitiers Bio",
+        "Viandes fraîches traditionnelles ou normé Produits CE2",
+        "Épiceries sèche"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-07-08",
+        "date_fin": "2026-07-07"
+    },
+    {
+        "idweb": "22-117502",
+        "id": "22_117502",
+        "objet": "Fourniture de denrées alimentaires (7 lots)",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-09-02",
+        "nomacheteur": "Commune de Rognac",
+        "titulaire": [
+            "Passionfroid_paca"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-32626",
+            "22-116830"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-117502",
+        "LOTS": [
+        "Produits laitiers - ovo produits",
+        "Viandes fraiches : bœuf, veau, agneau, porc, volailles, charcuterie",
+        "Fruits et légumes frais",
+        "Produits surgelés",
+        "Epicerie; boitages ; biscuits",
+        "Boissons alcoolisés, non alcoolisées et vins",
+        "Boulangerie"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-07-19",
+        "date_fin": "2026-07-18"
+    },
+    {
+        "idweb": "22-116830",
+        "id": "22_116830",
+        "objet": "Fourniture de denrées alimentaires (7 lots)",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-09-01",
+        "nomacheteur": "Commune de Rognac",
+        "titulaire": [
+            "Sofac",
+            "Dorina Sud",
+            "Sysco France Sas"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-32626"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-116830",
+        "LOTS": [
+        "Viandes fraiches : bœuf, veau, agneau, porc, volailles, charcuterie",
+        "Fruits et légumes frais",
+        "Produits surgelés"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-06-28",
+        "date_fin": "2026-06-27"
+    },
+    {
+        "idweb": "22-93601",
+        "id": "22_93601",
+        "objet": "Acquisition De Fruits Et Légumes Frais Pour La Ville D'Istres",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-07-07",
+        "nomacheteur": "COMMUNE D ISTRES",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "20-26705",
+            "20-41023",
+            "20-51886"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-93601",
+        "LOTS": [
+        "Fruits et légumes frais"
+        ],
+        "Duree": 4,
+        "date_debut": "2020-03-25",
+        "date_fin": "2024-03-24"
+    },
+    {
+        "idweb": "22-80963",
+        "id": "22_80963",
+        "objet": "Fourniture de denrées alimentaires pour le restaurant municipal",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-06-30",
+        "nomacheteur": "Ville de Grans",
+        "titulaire": [
+            "PassionFroid Groupe POMONA",
+            "SDA  Société de Distribution Avicole S.A.S.",
+            "SAS PRIMAREST",
+            "PassionFroid Groupe POMONA",
+            "TERRE AZUR - Groupe POMONA",
+            "Sysco France SAS",
+            "TRANSGOURMET MÉDITERRANÉE",
+            "SALADE 2 FRUITS"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-45093"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-80963",
+        "LOTS": [
+        "Produits laitiers et ovo produits",
+        "Volaille fraîche",
+        "Viande fraîche",
+        "Charcuterie",
+        "Poisson frais",
+        "Produits surgelés",
+        "Épicerie",
+        "Fruits et légumes"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-06-13",
+        "date_fin": "2026-06-12"
+    },
+    {
+        "idweb": "22-87339",
+        "id": "22_87339",
+        "objet": "Fourniture De Viandes, Volailles Et Poissons Cuits Pour Le Groupement Des Commandes Hôtelières",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-06-24",
+        "nomacheteur": "CH MONTPERRIN",
+        "titulaire": [
+            "Espri Restauration"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-58024"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-87339",
+        "LOTS": [
+        "Viandes, volailles et poissons cuits"
+        ],
+        "Duree": 3,
+        "date_debut": "2022-06-22",
+        "date_fin": "2025-06-21"
+    },
+    {
+        "idweb": "22-88503",
+        "id": "22_88503",
+        "objet": "Fourniture de pains et viennoiseries pour le Centre Communal d'Action Sociale de Toulon",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2022-06-24",
+        "nomacheteur": "C.C.A.S. de Toulon",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-42331"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-88503",
+        "LOTS": [
+        "Secteur Est : Upc - Ressence - Port Marchand - Congrégation",
+        "Secteur Ouest : Saphir - Porphyre - Siège"
+        ],
+        "Duree": 3,
+        "date_debut": "2022-06-06",
+        "date_fin": "2025-06-05"
+    },
+    {
+        "idweb": "22-61856",
+        "id": "22_61856",
+        "objet": "Approvisionnement en denrées alimentaires pour le compte du groupement d'intérêt public restauration du Pays d'Apt Luberon (84400) par une centrale d'achat ou de référencement",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2022-05-01",
+        "nomacheteur": "Commune d'Apt",
+        "titulaire": [
+            "AGAP'PROFESSIONNEL"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "22-32005"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-61856",
+        "LOTS": [
+        "Approvisionnement en denrées alimentaires"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-04-21",
+        "date_fin": "2026-04-20"
+    },
+    {
+        "idweb": "22-54633",
+        "id": "22_54633",
+        "objet": "Fourniture et livraison de denrées alimentaires",
+        "code_departement": [
+            "84",
+            "30",
+            "26",
+            "13",
+            "7"
+        ],
+        "dateparution": "2022-04-16",
+        "nomacheteur": "cc Rhône Lez Provence",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-152949"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-54633",
+        "LOTS": [
+        "Charcuterie",
+        "Volailles et lapins frais"
+        ],
+        "Duree": 3,
+        "date_debut": "2022-04-07",
+        "date_fin": "2025-04-06"
+    },
+    {
+        "idweb": "22-42556",
+        "id": "22_42556",
+        "objet": "Fourniture de denrées alimentaires pour le Centre Communal d'Action Sociale de Toulon",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2022-03-25",
+        "nomacheteur": "C.C.A.S. de Toulon",
+        "titulaire": [
+            "Dtv",
+            "Dtv",
+            "sooprim",
+            "Terreazur_83",
+            "Terreazur_83",
+            "Episaveurs_sud_est"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-158640"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-42556",
+        "LOTS": [
+        "Viandes fraîches issues de l'agriculture biologique : lapin, porc, bœuf, veau et agneau",
+        "Volailles fraîches issues de l'agriculture biologique",
+        "Viandes fraîches sous Siqo : lapin, porc, bœuf, veau et agneau",
+        "Volailles fraîches sous Siqo",
+        "Fruits et légumes frais issus de l'agriculture conventionnelle",
+        "Fruits et légumes frais issus de l'agriculture biologique",
+        "Fruits et légumes frais sous Siqo",
+        "Epicerie à base de fruits ou de légumes issus de l'agriculture biologique"
+        ],
+        "Duree": 2,
+        "date_debut": "2022-03-11",
+        "date_fin": "2024-03-10"
+    },
+    {
+        "idweb": "22-33965",
+        "id": "22_33965",
+        "objet": "Fournitures de produits alimentaires",
+        "code_departement": [
+            "83"
+        ],
+        "dateparution": "2022-03-09",
+        "nomacheteur": "CHI Toulon La Seyne sur Mer",
+        "titulaire": [
+            "PAINDOR TOULON SAS",
+            "TERREAZUR Côte d'Azur. Groupe POMONA"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-153031"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-33965",
+        "LOTS": [
+        "PAINS ET DERIVES",
+        "FRUITS ET LEGUMES",
+        "CHOCOLATS A OFFRIR"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-02-22",
+        "date_fin": "2026-02-21"
+    },
+    {
+        "idweb": "22-31091",
+        "id": "22_31091",
+        "objet": "FOURNITURE DE DENREES ALIMENTAIRES - LOT 4 VIANDE FRAICHE (HORS VOLAILLE) ET LOT 6 CHARCUTERIE",
+        "code_departement": [
+            "13",
+            "83",
+            "84",
+            "30",
+            "26",
+            "34"
+        ],
+        "dateparution": "2022-03-04",
+        "nomacheteur": "Ville de Salon de Provence",
+        "titulaire": [
+            "LANGUEDOC LOZERE VIANDE (1er attributaire)",
+            "BIGARD (2ème attributaire)",
+            "SYSCO FRANCE SAS (1er attributaire)",
+            "POMONA PASSION FROID (2ème attributaire)"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-150496"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-31091",
+        "LOTS": [
+        "Viande fraiche (hors volaille)",
+        "Charcuterie"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-02-22",
+        "date_fin": "2026-02-21"
+    },
+    {
+        "idweb": "22-32296",
+        "id": "22_32296",
+        "objet": "approvisionnement en denrées alimentaires et assistance technique.",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2022-03-04",
+        "nomacheteur": "EHPAD JEHAN RIPPERT",
+        "titulaire": [
+            "GV RESTAURATION"
+        ],
+        "nature_libelle": "SERVICES, FOURNITURES",
+        "annonce_lie": [
+            "22-17949",
+            "22-22215"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-32296",
+        "LOTS": [],
+        "Duree": 1,
+        "date_debut": "2022-03-03",
+        "date_fin": "2023-03-02"
+    },
+    {
+        "idweb": "22-21837",
+        "id": "22_21837",
+        "objet": "La consultation a pour objet la fourniture de denrées pour le(s) service(s) de restauration du pouvoir adjudicateur Les caractéristiques techniques devront répondre aux prescriptions du CCTP.",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2022-02-12",
+        "nomacheteur": "VALAÉ",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-118667"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-21837",
+        "LOTS": [
+        "Epicerie - circuit traditionnel",
+        "Boissons - circuit traditionnel",
+        "Produits surgelés - circuit traditionnel",
+        "Produits laitiers et ovo produits - circuit traditionnel",
+        "Viande fraîche de bœuf - veau - agneau - circuit traditionnel",
+        "Viande fraîche de porc - salaisons - charcuterie - circuit traditionnel",
+        "Volaille fraîche - circuit traditionnel",
+        "Viande cuite et élaborée - circuit traditionnel",
+        "Légumes et fruits frais 1ère gamme - 4e et 5ème gamme - circuit traditionnel",
+        "Produits de la mer - circuit traditionnel",
+        "Produits traiteur frais - circuit traditionnel",
+        "Nutrition et aides culinaires - circuit traditionnel",
+        "Produits issus de l'agriculture biologique - circuit traditionnel",
+        "Aides à la boulangerie - circuit traditionnel",
+        "Epicerie - circuit court",
+        "Biscuiterie - circuit court",
+        "Caféterie torréfaction - circuit court",
+        "Crêperie fraîche - circuit court",
+        "Produits Laitiers - circuit court",
+        "Viande fraîche de bœuf - veau - agneau - circuit court",
+        "Viande fraîche de porc - salaisons - charcuterie - circuit court",
+        "Volaille fraîche - circuit court",
+        "Légumes et Fruits 1er 4éme et 5éme gamme - circuit court"
+        ],
+        "Duree": 1,
+        "date_debut": "2021-12-13",
+        "date_fin": "2022-12-12"
+    },
+    {
+        "idweb": "22-19390",
+        "id": "22_19390",
+        "objet": "La consultation a pour objet la fourniture de denrées pour le(s) service(s) de restauration du pouvoir adjudicateur Les caractéristiques techniques devront répondre aux prescriptions du CCTP.",
+        "code_departement": [
+            "84"
+        ],
+        "dateparution": "2022-02-09",
+        "nomacheteur": "VALAÉ",
+        "titulaire": null,
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-119029"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-19390",
+        "LOTS": [
+        "Epicerie - circuit traditionnel",
+        "Boissons - Circuit Traditionnel",
+        "Produits surgelés - circuit traditionnel",
+        "Produits laitiers et ovo produits - circuit traditionnel",
+        "Viande fraîche de bœuf - veau - agneau - circuit traditionnel",
+        "Viande fraîche de porc - salaisons - charcuterie - circuit traditionnel",
+        "Volaille fraîche - Circuit Traditionnel",
+        "Viande cuite et élaborée - circuit traditionnel",
+        "Produits traiteur frais - circuit traditionnel",
+        "Produits issus de l'agriculture biologique - circuit traditionnel",
+        "Epicerie - Circuit court",
+        "Produits laitiers - Circuit court",
+        "Viande de Porc - Charcuterie - Salaison - Circuit court"
+        ],
+        "Duree": 1,
+        "date_debut": "2021-11-29",
+        "date_fin": "2022-11-28"
+    },
+    {
+        "idweb": "22-17327",
+        "id": "22_17327",
+        "objet": "Fourniture et livraison de denrées alimentaires pour la restauration collective des services de la Ville et du Ccas",
+        "code_departement": [
+            "13"
+        ],
+        "dateparution": "2022-02-04",
+        "nomacheteur": "COMMUNE LES PENNES MIRABEAU",
+        "titulaire": [
+            "Episaveurs_sud_est",
+            "Sysco France Sas",
+            "Felix Potin",
+            "Pldp",
+            "Sofac",
+            "Manger Bio En Provence",
+            "Sysco France Sas",
+            "Felix Potin",
+            "Manger Bio En Provence"
+        ],
+        "nature_libelle": "FOURNITURES",
+        "annonce_lie": [
+            "21-152316"
+        ],
+        "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:22-17327",
+        "LOTS": [
+        "Epicerie et boissons standards ou éco responsable",
+        "Surgelés standards ou éco responsables",
+        "Produits laitiers, Bof et traiteur standards ou éco responsables",
+        "Fruits et légumes frais de saison standards ou labélisés",
+        "Viandes fraîches et charcuteries standards ou éco responsables",
+        "Epicerie Bio",
+        "Surgelés Bio",
+        "Produits laitiers Bio",
+        "Œufs frais Plein air Bio"
+        ],
+        "Duree": 4,
+        "date_debut": "2022-02-02",
+        "date_fin": "2026-02-01"
+    }
+
+]
