@@ -4,6 +4,7 @@ import plotly.express as px
 import json
 from datetime import datetime, timedelta
 
+
 st.set_page_config(layout="wide")
 
 def load_data():
@@ -74,7 +75,8 @@ def prepare_timeline_data(data):
                 Days_Left=days_left,
                 Status=status,
                 Lots=lots,
-                Categories=list(all_categories)
+                Categories=list(all_categories),
+                URL=item.get('url_avis', '')  # Ajout de l'URL
             ))
         except (TypeError, ValueError, KeyError) as e:
             st.warning(f"Erreur avec l'entrée: {item.get('idweb', 'ID inconnu')} - {str(e)}")
@@ -185,7 +187,12 @@ def main():
     with col4:
         expiration_filter = st.selectbox(
             "⚠️ Filtrer par date de fin",
-            ["Tous les AO", "Se termine dans 3 mois", "Se termine dans 6 mois", "Se termine dans 1 an"]
+            ["Tous les AO", 
+             "Se termine dans 3 mois", 
+             "Se termine dans 6 mois", 
+             "Se termine dans 1 an",
+             "Se termine dans 1 an et demi",
+             "Se termine dans 2 ans"]
         )
     
     with col5:
@@ -223,6 +230,10 @@ def main():
             filtered_df = filtered_df[filtered_df['Days_Left'] <= 180]
         elif "1 an" in expiration_filter:
             filtered_df = filtered_df[filtered_df['Days_Left'] <= 365]
+        elif "1 an et demi" in expiration_filter:
+            filtered_df = filtered_df[filtered_df['Days_Left'] <= 547]
+        elif "2 ans" in expiration_filter:
+            filtered_df = filtered_df[filtered_df['Days_Left'] <= 730]
     
     if status_filter:
         filtered_df = filtered_df[filtered_df['Status'].isin(status_filter)]
@@ -231,8 +242,18 @@ def main():
         filtered_df = filtered_df[filtered_df['Categories'].apply(lambda x: any(cat in selected_categories for cat in x))]
     
     if not filtered_df.empty:
+        # Création d'un dictionnaire pour stocker les ancres des détails
+        detail_anchors = {}
+        for idx, row in filtered_df.iterrows():
+            anchor_id = f"detail_{idx}"
+            detail_anchors[row['Task']] = anchor_id
+
+        # Création du graphique
         fig = create_timeline_figure(filtered_df)
+        
+        # Affichage du graphique
         st.plotly_chart(fig, use_container_width=True)
+        
         
         # Statistiques
         st.subheader("📈 Statistiques")
@@ -252,13 +273,18 @@ def main():
             
         # Affichage des détails
         st.header("Détails des Appels d'Offre")
-        for _, row in filtered_df.iterrows():
+        for idx, row in filtered_df.iterrows():
+            # Création d'un identifiant unique pour chaque détail
+            st.markdown(f"<div id='{detail_anchors[row['Task']]}'></div>", unsafe_allow_html=True)
+            
             with st.expander(row['Task']):
                 col1, col2 = st.columns(2)
                 with col1:
                     st.write(f"**Acheteur:** {row['Resource']}")
                     st.write(f"**Titulaire:** {row['Titulaire']}")
                     st.write(f"**Départements:** {row['Department']}")
+                    if row['URL']:  # Ajout du lien
+                        st.markdown(f"**[Lien vers l'avis complet]({row['URL']})**")
                 with col2:
                     st.write(f"**Date début:** {row['Start'].strftime('%Y-%m-%d')}")
                     st.write(f"**Date fin:** {row['Finish'].strftime('%Y-%m-%d')}")
@@ -269,6 +295,19 @@ def main():
                     st.write(f"- {lot}")
                     if categories:
                         st.write(f"  *Catégories: {', '.join(categories)}*")
+
+        # Ajout du JavaScript pour permettre la navigation
+        st.markdown("""
+        <script>
+            function scrollToDetail(detailId) {
+                const element = document.getElementById(detailId);
+                if (element) {
+                    element.scrollIntoView({ behavior: 'smooth' });
+                }
+            }
+        </script>
+        """, unsafe_allow_html=True)
+
     else:
         st.warning("Aucune donnée ne correspond aux filtres sélectionnés")
 
